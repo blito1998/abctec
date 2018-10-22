@@ -1,0 +1,24 @@
+div#game3{
+	width: 800px;
+    background-color:#DF0101;
+    margin:100px auto auto auto;
+	
+}
+.bode3{
+	background-color:#FA5858;
+    color:rgba(0,0,0,1);
+	
+}
+#vt3{
+	
+position:relative;
+left:300px;
+display:block;
+	
+}
+#happy3{
+position:relative;
+left:220px;
+display:block;
+	
+}

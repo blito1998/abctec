@@ -1,0 +1,18 @@
+div#jogo{
+	width: 400px;
+    background-color:#DF0101;
+    margin:100px auto auto auto;
+	
+}
+.emoticon{
+	background-color:#FA5858;
+    color:rgba(0,0,0,1);
+	
+}
+#vt{
+	
+position:relative;
+left:50px;
+display:block;
+	
+}

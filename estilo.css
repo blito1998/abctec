@@ -1,0 +1,35 @@
+.btn{
+    
+    text-transform:uppercase;
+    font-weight:700;
+    border:none;
+    padding:10px;
+    cursor:pointer;
+    left:10px;
+    display:block;
+    
+}
+
+div#interface{
+    width: 400px;
+    background-color:#DF0101;
+    margin:100px auto auto auto;
+       
+}
+.corpo{
+    background-color:#FA5858;
+    color:rgba(0,0,0,1); 
+}
+#bn{
+position:relative;
+left:25px;
+top:2px;
+display:block;
+	
+}
+#play{
+position:relative;
+left:100px;
+display:block;
+	
+}

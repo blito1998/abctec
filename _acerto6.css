@@ -1,0 +1,24 @@
+div#game6{
+	width: 800px;
+    background-color:#DF0101;
+    margin:100px auto auto auto;
+	
+}
+.bode6{
+	background-color:#FA5858;
+    color:rgba(0,0,0,1);
+	
+}
+#vt6{
+	
+position:relative;
+left:300px;
+display:block;
+	
+}
+#happy6{
+position:relative;
+left:220px;
+display:block;
+	
+}

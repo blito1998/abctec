@@ -1,0 +1,17 @@
+div#rosto{
+    width: 800px;
+    background-color:#DF0101;
+    margin:100px auto auto auto;
+}
+.dentro_corpo2{
+    background-color:#FA5858;
+    color:rgba(0,0,0,1);
+	
+	
+}
+div#lt{
+position:relative;
+left:100px;
+display:block;
+	
+}
